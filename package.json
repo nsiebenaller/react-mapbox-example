@@ -16,7 +16,7 @@
     "license": "ISC",
     "dependencies": {
         "ajv": "^6.5.2",
-        "less": "^2.7.3",
+        "less": "^3.8.1",
         "less-loader": "^2.2.3",
         "mapbox-gl": "^0.48.0",
         "react": "^16.4.2",
